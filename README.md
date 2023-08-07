@@ -1,8 +1,4 @@
-# e-shop-server
-# e-shop-server
-# e-shop-server
-# e-shop-server
-# e-shop-server
+
 # e-shop-server-side
 # e-shop-server-side
 # e-shop-server-side
